@@ -1,0 +1,18 @@
+=== CPU-bound program (first 10 lines) ===
+CPU task running: 100000000
+CPU task running: 200000000
+CPU task running: 300000000
+CPU task running: 400000000
+CPU task running: 500000000
+CPU task running: 600000000
+CPU task running: 700000000
+CPU task running: 800000000
+CPU task running: 900000000
+CPU task running: 1000000000
+...
+
+=== I/O-bound program (3 seconds) ===
+Starting I/O task...
+File operation done
+File operation done
+File operation done
