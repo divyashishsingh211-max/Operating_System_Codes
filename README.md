@@ -137,12 +137,6 @@ free -h
 
 ---
 
-## Acknowledgements
-
-Experiments 6–10 were adapted from the Operating System Lab repository by [Harshit Singh Jamwal](https://github.com/harshit-singh-jamwal/Operating-System-LAB).
-
----
-
 ## Author
 
 **Divyashish Singh**
